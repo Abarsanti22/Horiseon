@@ -22,6 +22,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Screenshot
+![01-html-css-git-homework-demo](https://github.com/Abarsanti22/Horiseon/assets/138410240/b737175b-4e98-465f-8245-1ae2b353762d)
 
 Deployed Page
 https://abarsanti22.github.io/Horiseon/
