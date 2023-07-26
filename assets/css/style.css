@@ -1,4 +1,6 @@
-* {
+*
+/* page styling */
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -8,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +26,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* navigation */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +52,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* main image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* main content */
 article {
     width: 75%;
     display: inline-block;
@@ -94,6 +97,7 @@ article section img {
     max-height: 200px;
 }
 
+/* sidebar content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,8 +125,7 @@ aside img {
     max-width: 150px;
 }
 
-
-
+/* footer */
 footer {
     padding: 30px;
     clear: both;
